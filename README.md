@@ -11,4 +11,8 @@ Yrandom is built using a microservices architecture. These microservices include
 -   [yrandom-eureka-naming-server](https://github.com/Dhiraj072/yrandom-eureka-naming-server) - Naming server where youtube-service and yrandom-api-gateway instances register
 
 ![alt text](https://user-images.githubusercontent.com/12563778/54036766-66447200-41f7-11e9-82b8-f6147f0ce31f.jpg)
-q)
+
+
+## Authors
+
+-   [Dhiraj](https://github.com/dhiraj072)
