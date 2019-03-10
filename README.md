@@ -3,7 +3,9 @@ Yrandom is a web application to watch random youtube videos. I have been working
 
 
 ## Architecture
-Yrandom is built using a microservices architecture. These microservices include:
+Yrandom is decomposed into a UI client and various microservices. 
+
+These include:
 
 -   [yrandom-client](https://github.com/Dhiraj072/yrandom-client) - A web UI client which displays the random video
 -   [yrandom-api-gateway](https://github.com/Dhiraj072/yrandom-api-gateway) - An API gateway for all incoming HTTP requests
