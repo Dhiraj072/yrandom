@@ -1,5 +1,5 @@
 # Yrandom
-Yrandom is a web application to watch random youtube videos. I have been working on this as my pet project.
+Yrandom is a web application to watch random youtube videos. The application is built using microservices architecture. I have been working on this as my pet project.
 
 
 ## Architecture
